@@ -47,5 +47,5 @@ webrtc.on('readyToCall', function () {
 ### Optional Parameters
 
 ```
-iceServers: {"iceServers":[{"url":"stun:124.124.124.2"}]}
+iceServers: {"iceServers":[{"url":"stun:stun.stunserver.org"}]}
 ```
